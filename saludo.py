@@ -3,3 +3,6 @@ def hola():
 
 def chau():
     print("nos vemos")
+
+def miau():
+    print("nose que decir")
